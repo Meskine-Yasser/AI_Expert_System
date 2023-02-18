@@ -1,0 +1,13 @@
+if engine_leak then problem_engine
+if engine_leak and head_noise then coolant_prb
+if coolant_prb and white_smoke then exhaust_smoke
+if starter_module and alternator then battery
+if indicator and noise then pads
+if starter and noise then starter_module
+if odor and overheating then belt
+if belt then alternator
+if white_smoke then leak
+if black_smoke then carburettor
+if black_smoke and indicator then filter
+if blue_smoke then combustion
+if filter then overconsumption

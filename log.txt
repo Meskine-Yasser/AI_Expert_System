@@ -1,0 +1,501 @@
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['']
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'coolant_prb', 'exhaust_smoke', '']
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['']
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'coolant_prb', 'exhaust_smoke', '']
+----------------------------------------- 2022-04-28 11:04:57.595726------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: belt
+
+ITERATION N: 0
+___________________________________________
+ALL The Fired Rules are: []
+All rules are fired, new DB is: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'coolant_prb', 'exhaust_smoke', '']
+Not all rules are fired, but new Facts Added: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'coolant_prb', 'exhaust_smoke', '']
+
+******************************************************************
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'coolant_prb', 'exhaust_smoke', '']
+----------------------------------------- 2022-04-28 11:05:32.841481------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: belt
+
+ITERATION N: 0
+___________________________________________
+ALL The Fired Rules are: []
+All rules are fired, new DB is: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'coolant_prb', 'exhaust_smoke', '']
+Not all rules are fired, but new Facts Added: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'coolant_prb', 'exhaust_smoke', '']
+
+******************************************************************
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'coolant_prb', 'exhaust_smoke', '']
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '']
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '']
+----------------------------------------- 2022-04-28 11:07:50.612485------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: belt
+
+ITERATION N: 0
+___________________________________________
+The Conflict set is['if belt then alternator']
+The Fired Rule is: if belt then alternator
+The Fired Rules are: ['if belt then alternator']
+
+ITERATION N: 1
+___________________________________________
+ALL The Fired Rules are: ['if belt then alternator']
+All rules are fired, new DB is: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'alternator']
+Not all rules are fired, but new Facts Added: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'alternator']
+
+******************************************************************
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '']
+----------------------------------------- 2022-04-28 11:08:49.955370------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: starter
+
+ITERATION N: 0
+___________________________________________
+The Conflict set is['if starter and noise then starter_module']
+The Fired Rule is: if starter and noise then starter_module
+The Fired Rules are: ['if starter and noise then starter_module']
+
+ITERATION N: 1
+___________________________________________
+The Conflict set is['if starter_module and alternator then battery']
+The Fired Rule is: if starter_module and alternator then battery
+The Fired Rules are: ['if starter and noise then starter_module', 'if starter_module and alternator then battery']
+
+ITERATION N: 2
+___________________________________________
+ALL The Fired Rules are: ['if starter and noise then starter_module', 'if starter_module and alternator then battery']
+All rules are fired, new DB is: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+Not all rules are fired, but new Facts Added: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+
+******************************************************************
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '']
+----------------------------------------- 2022-04-28 11:14:36.815191------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: starter
+
+ITERATION N: 0
+___________________________________________
+The Conflict set is['if starter and noise then starter_module']
+The Fired Rule is: if starter and noise then starter_module
+The Fired Rules are: ['if starter and noise then starter_module']
+
+ITERATION N: 1
+___________________________________________
+The Conflict set is['if starter_module and alternator then battery']
+The Fired Rule is: if starter_module and alternator then battery
+The Fired Rules are: ['if starter and noise then starter_module', 'if starter_module and alternator then battery']
+
+ITERATION N: 2
+___________________________________________
+ALL The Fired Rules are: ['if starter and noise then starter_module', 'if starter_module and alternator then battery']
+All rules are fired, new DB is: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+Not all rules are fired, but new Facts Added: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+
+******************************************************************
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '']
+----------------------------------------- 2022-04-28 11:17:44.351374------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: starter and noise
+
+ITERATION N: 0
+___________________________________________
+The Conflict set is['if starter and noise then starter_module']
+The Fired Rule is: if starter and noise then starter_module
+The Fired Rules are: ['if starter and noise then starter_module']
+
+ITERATION N: 1
+___________________________________________
+ALL The Fired Rules are: ['if starter and noise then starter_module']
+All rules are fired, new DB is: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'starter and noise', 'starter_module']
+Not all rules are fired, but new Facts Added: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'starter and noise', 'starter_module']
+
+******************************************************************
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '']
+----------------------------------------- 2022-04-28 11:19:53.770354------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: starter and noise
+
+ITERATION N: 0
+___________________________________________
+The Conflict set is['if engine_leak and head_noise then coolant_prb', 'if indicator and noise then pads', 'if starter and noise then starter_module', 'if starter and noise then starter_module']
+The Fired Rule is: if engine_leak and head_noise then coolant_prb
+The Fired Rules are: ['if engine_leak and head_noise then coolant_prb']
+
+ITERATION N: 1
+___________________________________________
+The Conflict set is['if indicator and noise then pads', 'if starter and noise then starter_module', 'if starter and noise then starter_module']
+The Fired Rule is: if indicator and noise then pads
+The Fired Rules are: ['if engine_leak and head_noise then coolant_prb', 'if indicator and noise then pads']
+
+ITERATION N: 2
+___________________________________________
+The Conflict set is['if starter and noise then starter_module', 'if starter and noise then starter_module']
+The Fired Rule is: if starter and noise then starter_module
+The Fired Rules are: ['if engine_leak and head_noise then coolant_prb', 'if indicator and noise then pads', 'if starter and noise then starter_module']
+
+ITERATION N: 3
+___________________________________________
+The Conflict set is['if starter_module and alternator then battery']
+The Fired Rule is: if starter_module and alternator then battery
+The Fired Rules are: ['if engine_leak and head_noise then coolant_prb', 'if indicator and noise then pads', 'if starter and noise then starter_module', 'if starter_module and alternator then battery']
+
+ITERATION N: 4
+___________________________________________
+ALL The Fired Rules are: ['if engine_leak and head_noise then coolant_prb', 'if indicator and noise then pads', 'if starter and noise then starter_module', 'if starter_module and alternator then battery']
+All rules are fired, new DB is: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'engine_leak and head_noise', 'coolant_prb', 'indicator and noise', 'pads', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+Not all rules are fired, but new Facts Added: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'engine_leak and head_noise', 'coolant_prb', 'indicator and noise', 'pads', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+
+******************************************************************
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '']
+----------------------------------------- 2022-04-28 11:22:05.506457------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: starter
+
+ITERATION N: 0
+___________________________________________
+The Conflict set is['if starter and noise then starter_module']
+The Fired Rule is: if starter and noise then starter_module
+The Fired Rules are: ['if starter and noise then starter_module']
+
+ITERATION N: 1
+___________________________________________
+The Conflict set is['if starter_module and alternator then battery']
+The Fired Rule is: if starter_module and alternator then battery
+The Fired Rules are: ['if starter and noise then starter_module', 'if starter_module and alternator then battery']
+
+ITERATION N: 2
+___________________________________________
+ALL The Fired Rules are: ['if starter and noise then starter_module', 'if starter_module and alternator then battery']
+All rules are fired, new DB is: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+Not all rules are fired, but new Facts Added: ['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+
+******************************************************************
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['starter', 'noise', 'alternator', 'pads', 'indicator', 'smell', 'overheating', 'smoke', 'head_gasket', 'carburetor', 'filter', 'combustion', 'overconsumption', 'engine_leak', 'head_noise', 'white_smoke', 'black_smoke', 'problem', 'belt', 'coolant_prb', 'exhaust_smoke', '']
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['engine_leak', 'starter', 'noise', 'alternater']
+----------------------------------------- 2022-04-28 11:39:31.647319------------------------------------------
+
+Forward Chaining : 
+Goal to infer: engine_leak and starter and noise and alternator
+
+ITERATION N: 0
+___________________________________________
+The activated Rule is: if engine_leak then problem_engine
+Conclusion is added to the facts: problem_engine
+New Database/Facts is 
+['engine_leak', 'starter', 'noise', 'alternater', 'problem_engine']
+Rule Fired 
+*** 
+The activated Rule is: if starter and noise then starter_module
+Conclusion is added to the facts: starter_module
+New Database/Facts is 
+['engine_leak', 'starter', 'noise', 'alternater', 'problem_engine', 'starter_module']
+Rule Fired 
+*** 
+
+ITERATION N: 1
+___________________________________________
+No Activated Rule
+engine_leak and starter and noise and alternator is not achieved 
+
+
+******************************************************************
+2022-04-28 11:35:50.188050Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['engine_leak', 'starter', 'noise', 'alternater']
+----------------------------------------- 2022-04-28 11:41:12.711342------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: engine_leak and starter and noise and alternator
+
+ITERATION N: 0
+___________________________________________
+The Conflict set is['if engine_leak then problem_engine', 'if starter and noise then starter_module', 'if starter and noise then starter_module']
+The Fired Rule is: if engine_leak then problem_engine
+The Fired Rules are: ['if engine_leak then problem_engine']
+
+ITERATION N: 1
+___________________________________________
+The Conflict set is['if starter and noise then starter_module', 'if starter and noise then starter_module']
+The Fired Rule is: if starter and noise then starter_module
+The Fired Rules are: ['if engine_leak then problem_engine', 'if starter and noise then starter_module']
+
+ITERATION N: 2
+___________________________________________
+ALL The Fired Rules are: ['if engine_leak then problem_engine', 'if starter and noise then starter_module']
+All rules are fired, new DB is: ['engine_leak', 'starter', 'noise', 'alternater', 'problem_engine', 'starter and noise', 'starter_module']
+Not all rules are fired, but new Facts Added: ['engine_leak', 'starter', 'noise', 'alternater', 'problem_engine', 'starter and noise', 'starter_module']
+
+******************************************************************
+2022-04-28 11:40:23.809689Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['engine_leak', 'starter', 'noise', 'alternator']
+----------------------------------------- 2022-04-28 11:44:28.237924------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: engine_leak and starter and noise and alternator
+
+ITERATION N: 0
+___________________________________________
+The Conflict set is['if engine_leak then problem_engine', 'if starter and noise then starter_module', 'if starter and noise then starter_module']
+The Fired Rule is: if engine_leak then problem_engine
+The Fired Rules are: ['if engine_leak then problem_engine']
+
+ITERATION N: 1
+___________________________________________
+The Conflict set is['if starter and noise then starter_module', 'if starter and noise then starter_module']
+The Fired Rule is: if starter and noise then starter_module
+The Fired Rules are: ['if engine_leak then problem_engine', 'if starter and noise then starter_module']
+
+ITERATION N: 2
+___________________________________________
+The Conflict set is['if starter_module and alternator then battery', 'if starter_module and alternator then battery']
+The Fired Rule is: if starter_module and alternator then battery
+The Fired Rules are: ['if engine_leak then problem_engine', 'if starter and noise then starter_module', 'if starter_module and alternator then battery']
+
+ITERATION N: 3
+___________________________________________
+ALL The Fired Rules are: ['if engine_leak then problem_engine', 'if starter and noise then starter_module', 'if starter_module and alternator then battery']
+All rules are fired, new DB is: ['engine_leak', 'starter', 'noise', 'alternator', 'problem_engine', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+Not all rules are fired, but new Facts Added: ['engine_leak', 'starter', 'noise', 'alternator', 'problem_engine', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+
+******************************************************************
+2022-04-28 11:44:22.308679Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['engine_leak', 'starter', 'noise', 'alternator']
+----------------------------------------- 2022-04-28 11:45:08.692437------------------------------------------
+
+Backward Chaining : 
+Goal to Achieve : battery
+
+
+ITERATION N: 0
+______________________________________________ 
+ALL the applicable rules: 
+[(['starter_module', 'alternator'], 'battery')]
+Applicable Rule: 
+(['starter_module', 'alternator'], 'battery')
+
+ITERATION N: 1
+______________________________________________ 
+ALL the applicable rules: 
+[(['starter', 'noise'], 'starter_module')]
+Applicable Rule: 
+(['starter', 'noise'], 'starter_module')
+New Database 
+['engine_leak', 'starter', 'noise', 'alternator', 'starter_module']
+
+ITERATION N: 2
+______________________________________________ 
+ALL the applicable rules: 
+[(['starter_module', 'alternator'], 'battery')]
+Applicable Rule: 
+(['starter_module', 'alternator'], 'battery')
+New Database 
+['engine_leak', 'starter', 'noise', 'alternator', 'starter_module', 'battery']
+
+ITERATION N: 3
+______________________________________________ 
+battery is achieved 
+
+******************************************************************
+2022-04-28 11:44:51.154447Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['engine_leak', 'starter', 'noise', 'alternator', 'starter_module', 'battery', '']
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['engine_leak', 'starter', 'noise', 'alternator', '']
+----------------------------------------- 2022-04-28 11:51:13.752127------------------------------------------
+
+Forward Chaining without Goal : 
+initial fact to infer: stater and noise and engine_leak and alternator
+
+ITERATION N: 0
+___________________________________________
+The Conflict set is['if engine_leak then problem_engine', 'if starter and noise then starter_module']
+The Fired Rule is: if engine_leak then problem_engine
+The Fired Rules are: ['if engine_leak then problem_engine']
+
+ITERATION N: 1
+___________________________________________
+The Conflict set is['if starter and noise then starter_module']
+The Fired Rule is: if starter and noise then starter_module
+The Fired Rules are: ['if engine_leak then problem_engine', 'if starter and noise then starter_module']
+
+ITERATION N: 2
+___________________________________________
+The Conflict set is['if starter_module and alternator then battery']
+The Fired Rule is: if starter_module and alternator then battery
+The Fired Rules are: ['if engine_leak then problem_engine', 'if starter and noise then starter_module', 'if starter_module and alternator then battery']
+
+ITERATION N: 3
+___________________________________________
+ALL The Fired Rules are: ['if engine_leak then problem_engine', 'if starter and noise then starter_module', 'if starter_module and alternator then battery']
+All rules are fired, new DB is: ['engine_leak', 'starter', 'noise', 'alternator', '', 'problem_engine', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+Not all rules are fired, but new Facts Added: ['engine_leak', 'starter', 'noise', 'alternator', '', 'problem_engine', 'starter and noise', 'starter_module', 'starter_module and alternator', 'battery']
+
+******************************************************************
+2022-04-28 11:50:50.644351Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['engine_leak', 'starter', 'noise', 'alternator', '']
+Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['engine_leak', 'starter', 'noise', 'alternator', '']
+----------------------------------------- 2022-04-28 11:52:02.848356------------------------------------------
+
+Backward Chaining : 
+Goal to Achieve : battery
+
+
+ITERATION N: 0
+______________________________________________ 
+ALL the applicable rules: 
+[(['starter_module', 'alternator'], 'battery')]
+Applicable Rule: 
+(['starter_module', 'alternator'], 'battery')
+
+ITERATION N: 1
+______________________________________________ 
+ALL the applicable rules: 
+[(['starter', 'noise'], 'starter_module')]
+Applicable Rule: 
+(['starter', 'noise'], 'starter_module')
+New Database 
+['engine_leak', 'starter', 'noise', 'alternator', '', 'starter_module']
+
+ITERATION N: 2
+______________________________________________ 
+ALL the applicable rules: 
+[(['starter_module', 'alternator'], 'battery')]
+Applicable Rule: 
+(['starter_module', 'alternator'], 'battery')
+New Database 
+['engine_leak', 'starter', 'noise', 'alternator', '', 'starter_module', 'battery']
+
+ITERATION N: 3
+______________________________________________ 
+battery is achieved 
+
+******************************************************************
+2022-04-28 11:51:54.472879Premises LIST :
+['engine_leak', 'engine_leak and head_noise', 'coolant_prb and white_smoke', 'starter_module and alternator', 'indicator and noise', 'starter and noise', 'odor and overheating', 'belt', 'white_smoke', 'black_smoke', 'black_smoke and indicator', 'blue_smoke', 'filter']
+Conclusions LIST :
+['problem_engine', 'coolant_prb', 'exhaust_smoke', 'battery', 'pads', 'starter_module', 'belt', 'alternator', 'leak', 'carburettor', 'filter', 'combustion', 'overconsumption']
+Database LIST : 
+['engine_leak', 'starter', 'noise', 'alternator', '', 'starter_module', 'battery', '']
+----------------------------------------- 2023-02-18 14:09:40.909045------------------------------------------
+
+Backward Chaining : 
+Goal to Achieve : battery
+
+
+ITERATION N: 0
+______________________________________________ 
+battery is achieved 
+
+******************************************************************
+2023-02-18 14:09:26.650303
